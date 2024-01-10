@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hi there 👋, Rianna Washington
+### Rianna Washington
 #### Software Design and Development
 ![Software Design and Development](https://www.canva.com/design/DAF5hE1vHok/view)
 
