@@ -1,6 +1,6 @@
 ### Rianna Washington
 #### Software Design and Development
-![Software Design and Development](https://www.canva.com/design/DAF5hE1vHok/view)
+![Banner](file:///Users/rianita/Desktop/SWE%20Banner_White%20Minimalist%20Corporate.png)
 
 I'm Rianna from Miami, Florida. I am a 2024 Posse Scholar and Graduate of Mount Holyoke College. I enjoy web app design and development, as well as learning new languages and frameworks. I also enjoy wireframe, UI, and UX Design as well. I am a lifelong learner, always open to new concepts and skills. 
 
