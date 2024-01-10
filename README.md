@@ -1,8 +1,7 @@
-### Rianna Washington
-#### Software Design and Development
-![Banner](file:///Users/rianita/Desktop/SWE%20Banner_White%20Minimalist%20Corporate.png)
+### Hi there 👋, I'm Rianna Washington
+![image](https://github.com/riannawash/riannawash/assets/114454509/898dc0d1-b9f0-4a0b-be25-06dfdfd9fed3)
 
-I'm Rianna from Miami, Florida. I am a 2024 Posse Scholar and Graduate of Mount Holyoke College. I enjoy web app design and development, as well as learning new languages and frameworks. I also enjoy wireframe, UI, and UX Design as well. I am a lifelong learner, always open to new concepts and skills. 
+I am waving from the beautiful city of Miami, Florida. I am a 2024 Posse Scholar and a Graduate of Mount Holyoke College. I enjoy web app design and development, as well as learning new languages and frameworks. I also enjoy wireframe, UI, and UX Design as well. I am a lifelong learner, always open to new concepts and skills. 
 
 Skills: HTML, CSS, JavaScript, Java, Python
 
